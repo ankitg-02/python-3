@@ -1,0 +1,10 @@
+a=['1','2','3']
+a.append(4)
+print(a)
+a.count(2)
+print(a)
+a.pop(3)
+print(a)
+print(a.index('2'))
+a.sort()
+print(a)
